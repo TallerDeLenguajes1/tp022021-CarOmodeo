@@ -1,0 +1,33 @@
+2021-09-06 11:19:33.2288|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 11:57:12.2347|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 11:58:52.3131|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 12:06:08.0379|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 12:09:45.8720|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 12:11:52.4072|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 12:15:42.4544|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 12:18:05.1588|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 12:26:25.2215|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 12:30:20.3347|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 12:33:53.9040|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 12:35:36.5677|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 14:04:08.5551|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 14:04:21.3910|0|ERROR|Tp2.Startup|Value cannot be null. (Parameter 's') 
+2021-09-06 14:04:29.3535|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 14:04:33.1650|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 14:04:35.1971|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 14:05:21.3504|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 14:05:46.4457|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 14:10:58.7630|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 14:11:02.2495|0|ERROR|Tp2.Startup|Se ingresaron campos vacios 
+2021-09-06 14:11:09.1014|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 14:11:29.3359|0|ERROR|Tp2.Startup|Value cannot be null. (Parameter 's') 
+2021-09-06 14:11:31.6107|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 14:57:43.9137|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 15:02:46.5547|0|ERROR|Tp2.Startup|Se ingresaron campos vacios 
+2021-09-06 15:02:50.9579|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 15:03:41.1978|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 15:05:07.7518|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 15:07:30.3374|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 15:11:09.9802|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 15:11:40.4936|0|WARN|Tp2.Startup|Hello, this is the index! 
+2021-09-06 15:13:44.8629|0|WARN|Tp2.Startup|Hello, this is the index! 

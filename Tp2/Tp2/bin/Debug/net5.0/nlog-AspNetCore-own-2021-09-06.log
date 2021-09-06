@@ -1,0 +1,99 @@
+2021-09-06 11:16:33.1994|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 11:16:33.3017|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 11:19:33.1140|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 11:19:33.2288|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 11:57:12.1501|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 11:57:12.2347|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 11:57:57.2834|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 11:57:57.5054|0|INFO|Tp2.Startup|Los datos son: CarolinaOmodeo,-17años ,-4de antiguedad y salario $12150 |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 11:58:52.1809|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 11:58:52.3131|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 11:59:22.6038|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 11:59:22.7267|0|INFO|Tp2.Startup|Los datos son: CarolinaOmodeo,-17años ,1de antiguedad y salario $12900 |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 12:06:07.9503|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:06:08.0379|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 12:06:38.8663|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:06:39.0015|0|INFO|Tp2.Startup|Los datos son: CarolinaOmodeo,-17años ,0de antiguedad y salario $12750 |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 12:09:45.7750|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:09:45.8720|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 12:10:18.3867|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:11:52.2717|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:11:52.4072|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 12:12:15.8814|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:15:42.3449|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:15:42.4544|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 12:16:04.2730|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:17:25.7927|0|INFO|Tp2.Startup|Los datos son: Carolina Omodeo,-10911 años ,-731 de antiguedad y salario $-96900 |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 12:18:05.0458|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:18:05.1588|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 12:18:26.5361|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:19:09.9120|0|INFO|Tp2.Startup|Los datos son: Carolina Omodeo,10911 años ,731 de antiguedad y salario $16500 |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 12:26:25.0010|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:26:25.2215|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 12:26:55.2460|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:27:10.5609|0|INFO|Tp2.Startup|Los datos son: Maria Omodeo,-1322369024 años ,469188608 de antiguedad y salario $16500 |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 12:30:20.2152|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:30:20.3347|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 12:30:41.2322|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:31:10.4541|0|INFO|Tp2.Startup|Los datos son: Carolina Omodeo,29 años ,2 de antiguedad y salario $13050 |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 12:33:53.8082|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:33:53.9040|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 12:34:51.0805|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:34:53.4928|0|INFO|Tp2.Startup|Los datos son: Pedro Omodeo,92 años ,61 de antiguedad y salario $16500 |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 12:35:36.4645|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:35:36.5677|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 12:36:02.9961|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 12:36:05.1363|0|INFO|Tp2.Startup|Los datos son: Pedro Omodeo,92 años ,61 de antiguedad y salario $16500 |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 14:04:08.4575|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:04:08.5551|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 14:04:21.2183|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:04:21.3910|0|ERROR|Tp2.Startup|Value cannot be null. (Parameter 's') |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 14:04:29.3535|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:04:29.3535|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 14:04:33.1650|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:04:33.1650|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 14:04:34.2557|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:04:35.1908|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:04:35.1971|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 14:05:21.2629|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:05:21.3504|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 14:05:24.3669|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:05:46.3578|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:05:46.4457|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 14:06:04.2153|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:06:04.3178|0|INFO|Tp2.Startup|Los datos ingresados fueron:  ,29 años ,1 de antiguedad y salario $12900 |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 14:10:58.6700|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:10:58.7630|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 14:11:02.1674|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:11:02.2495|0|ERROR|Tp2.Startup|Se ingresaron campos vacios |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 14:11:09.1014|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:11:09.1014|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 14:11:29.2269|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:11:29.3359|0|ERROR|Tp2.Startup|Value cannot be null. (Parameter 's') |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 14:11:31.6107|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:11:31.6107|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 14:57:43.7684|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 14:57:43.9137|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 15:02:46.4798|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 15:02:46.5547|0|ERROR|Tp2.Startup|Se ingresaron campos vacios |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 15:02:50.9579|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 15:02:50.9579|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 15:03:41.0889|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 15:03:41.1978|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 15:03:59.1564|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 15:05:07.6280|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 15:05:07.7518|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 15:05:37.4733|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 15:07:30.2442|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 15:07:30.3374|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 15:07:46.0857|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 15:11:09.8919|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 15:11:09.9802|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 15:11:29.6644|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 15:11:29.7853|0|INFO|Tp2.Startup|Los datos ingresados fueron: Carolina Pérez Omodeo,29 años ,2 de antiguedad y salario $13050 |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
+2021-09-06 15:11:40.4892|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 15:11:40.4936|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 15:13:44.7396|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 15:13:44.8629|0|WARN|Tp2.Startup|Hello, this is the index! |url: |action: |Tp2.Controllers.HomeController.Index| body: 
+2021-09-06 15:13:59.7474|0|INFO|Tp2.Startup|NLog injected into HomeController |url: |action: |Tp2.Controllers.HomeController..ctor| body: 
+2021-09-06 15:13:59.8564|0|INFO|Tp2.Startup|Los datos ingresados fueron: Carolina Pérez Omodeo,29 años ,2 de antiguedad y salario $13050 |url: |action: |Tp2.Controllers.HomeController.Tp2| body: 
